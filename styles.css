@@ -1,5 +1,6 @@
 body{
     background-color: whitesmoke;
+    text-align: center;
 }
 
 #new-book-btn {
@@ -51,4 +52,31 @@ input[type=text] {
     border: 1px solid #000;
     border-radius: 5px;
     padding: 5px;
+  }
+
+  form{
+    max-width: 900px;
+    display: inline-block;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    display: block;
+    text-align: center;
+    display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: left;
+  }
+
+  form
+  {
+      display: block;
+      text-align: center;
+  }
+  form
+  {
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: left;
   }
